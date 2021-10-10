@@ -170,5 +170,5 @@ for n_s = 1: N_SAMPLE
         permind_mem(:,bp_step+1,n_s) = permindx; 
 
     end
-        
+    
 end
